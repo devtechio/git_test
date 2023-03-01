@@ -1,0 +1,1 @@
+this is sample text to test git status, commit and log
